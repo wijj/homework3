@@ -78,12 +78,12 @@ td{
   border-top: 2px solid #000000;
   text-align: center;
 }
-tr:nth-child(2n){
-  background-color: transparent;
+tr{
+  background-color: #D1D1D1;
 }
 
 tr:nth-child(2n+1){
-  background-color: #D1D1D1;
+  background-color:transparent;
 }
 tr:hover{
   background-color: rgba(126,8,48,.25)
