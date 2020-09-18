@@ -66,10 +66,12 @@ table{
 }
 
 .rowhead{
-  border: 2px;
+  border-top: 2px solid #000000;
+  border-right: 2px solid #000000;
   padding: 10px;
   border-top: 2px solid #000000;
   text-align: center;
+  
 }
 
 td{
@@ -113,6 +115,7 @@ footer{
   color: #FFFFFF;
   position: fixed;
   bottom:0;
+  left: 0;
 }
 =
 
