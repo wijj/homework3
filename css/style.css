@@ -79,6 +79,9 @@ td{
   text-align: center;
 }
 
+tr{
+  background-color: transparent;
+}
 
 tr:nth-child(2n+1){
   background-color: #D1D1D1;
