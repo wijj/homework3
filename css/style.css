@@ -55,7 +55,7 @@ table{
 }
 
 .colhead{
-  background-color: #7e0830;
+  background-color: #7e0820;
   color: #FFFFFF;
   min-width: 125px;
   padding: 10px;
@@ -86,7 +86,7 @@ tr:nth-child(2n+1){
   background-color:transparent;
 }
 tr:hover{
-  background-color: rgba(126,8,48,.25)
+  background-color: rgba(126, 8, 32,.25)
  
 }
 *:focus{
